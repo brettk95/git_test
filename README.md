@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin!"
+"Hello Odin! I don't want to use -m to write commit messages."
